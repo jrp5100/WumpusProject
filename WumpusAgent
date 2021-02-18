@@ -1,0 +1,20 @@
+#def escape(percept):
+    #revmoves = []
+    #for i in reversed(moves):
+       # if moves[i] == 'N':
+           # moves[i] = 'S'
+            #revmoves.__add__(moves[i])
+        #elif moves[i] == 'S':
+           # moves[i] = 'N'
+            #revmoves.__add__(moves[i])
+       # elif moves[i] == 'W':
+        #    moves[i] = 'E'
+         #   revmoves.__add__(moves[i])
+        #elif moves[i] == 'E':
+         #   moves[i] = 'W'
+          #  revmoves.__add__(moves[i])
+    #for j in revmoves:
+     #   if percept == 'S':
+      #      wumpus()
+       # else:
+        #    return revmoves[j]
